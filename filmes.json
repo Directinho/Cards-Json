@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Interestelar",
+    "ano": 2014,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção Científica",
+    "cartaz": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg"
+  },
+  {
+    "titulo": "O Poderoso Chefão",
+    "ano": 1972,
+    "diretor": "Francis Ford Coppola",
+    "genero": "Crime, Drama",
+    "cartaz": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg"
+  },
+  {
+    "titulo": "Matrix",
+    "ano": 1999,
+    "diretor": "Lana Wachowski, Lilly Wachowski",
+    "genero": "Ação, Ficção Científica",
+    "cartaz": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg"
+  }
+]
